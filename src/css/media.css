@@ -1,0 +1,165 @@
+/* small >= 576px */
+@media (min-width:576px) {
+    :root{
+        font-size: 14px;
+    }
+    .container{
+        max-width: 540px;
+    }
+    .sm-100{
+        width: 100% !important;
+    }
+    .sm-75{
+        width: 75% !important;
+    }
+     .sm-50{
+        width: 50% !important;
+    }
+     .sm-33{
+        width: 33.333% !important;
+    }
+     .sm-25{
+        width: 25% !important;
+    }
+   
+     .sm-20{
+        width: 20% !important;
+    }
+     .sm-16{
+        width: 16.667% !important;
+    }
+    
+
+}
+/* medium >= 768px */
+@media (min-width:768px) {
+      :root{
+        font-size: 16px;
+    }
+   .md-100{
+        width: 100% !important;
+    }
+    .md-75{
+        width: 75% !important;
+    }
+     .md-50{
+        width: 50% !important;
+    }
+     .md-33{
+        width: 33.333% !important;
+    }
+     .md-25{
+        width: 25% !important;
+    }
+     .md-20{
+        width: 100% !important;
+    }
+     .md-20{
+        width: 20% !important;
+    }
+     .md-16{
+        width: 16.667% !important;
+    } 
+}
+/* large >= 992px */
+@media (min-width:992px) {
+      .container{
+        max-width:960px ;
+      }
+    
+    :root{
+        font-size: 18px;
+    }
+    .lg-100{
+        width: 100% !important;
+    }
+    .lg-75{
+        width: 75% !important;
+    }
+     .lg-48{
+        width: 48% !important;
+    }
+     .lg-33{
+        width: 33.333% !important;
+    }
+     .lg-25{
+        width: 25% !important;
+    }
+     .lg-20{
+        width: 100% !important;
+    }
+     .lg-20{
+        width: 20% !important;
+    }
+     .lg-16{
+        width: 16.667% !important;
+    }
+}
+/* extra large >= 1200px */
+@media (min-width:1200px) {
+      :root{
+        font-size: 20px;
+    }
+    .container{
+        max-width: 1140px ;
+
+    }
+    .container{
+        max-width:1320px;
+    }
+    .xl-100{
+        width: 100% !important;
+    }
+    .xl-75{
+        width: 75% !important;
+    }
+     .xl-50{
+        width: 50% !important;
+    }
+     .xl-33{
+        width: 33.333% !important;
+    }
+     .xl-25{
+        width: 25% !important;
+    }
+  
+     .xl-20{
+        width: 20% !important;
+    }
+     .xl-16{
+        width: 16.667% !important;
+    }
+}
+/* extra extra large >= 1400px */
+@media (min-width:1400px) {
+      :root{
+        font-size: 22px;
+    }
+    .container{
+        max-width: 1320px;
+    }
+    .xxl-100{
+        width: 100% !important;
+    }
+    .xxl-75{
+        width: 75% !important;
+    }
+     .xxl-50{
+        width: 50% !important;
+    }
+     .xxl-33{
+        width: 33.333% !important;
+    }
+     .xxl-25{
+        width: 25% !important;
+    }
+     .xxl-20{
+        width: 100% !important;
+    }
+     .xxl-20{
+        width: 20% !important;
+    }
+     .xxl-16{
+        width: 16.667% !important;
+    }
+}
